@@ -86,11 +86,6 @@
         }
         child.appendChild(deletebutton)
         parent.appendChild(child)
-
-       
-
-
-
     }
 </script>
  
