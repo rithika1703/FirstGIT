@@ -86,7 +86,10 @@
         }
         child.appendChild(deletebutton)
         parent.appendChild(child)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4df01fbfc6d6b17b439d01da1059c47b9001efa3
     }
 </script>
  
