@@ -11,14 +11,14 @@
     crossorigin="anonymous"></script>
 </head>
 <body>
-    <form class="form-check-inline" onsubmit="onsignup(event)">
+    <form class="form-check-inline" onsubmit="onsignup(event)">w
     <div class="container">
         <label for="expenses" class="form-label"><h3>Expense Amount</h3></label>
         <select class="form-select" id="expenses">
             <option>Select</option>
             <option>100</option>
             <option>200</option>
-            <option>500</option>
+            <option>520</option>
             <option>1000</option>
         </select>
        <label for="choosedescription" class="form-label"><h3>Choose description</h3></label>
@@ -86,10 +86,6 @@
         }
         child.appendChild(deletebutton)
         parent.appendChild(child)
-
-       
-
-
 
     }
 </script>
